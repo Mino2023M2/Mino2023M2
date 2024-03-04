@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mino2023M2
+- 👋 Hi, I’m @Mino
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software Programming
-- 😄 Pronouns: She
+- 😄 Pronouns: She 
   
 
 <!---
